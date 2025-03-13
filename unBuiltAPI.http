@@ -1,0 +1,6 @@
+@unBuiltAPI_HostAddress = http://localhost:5020
+
+GET {{unBuiltAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
