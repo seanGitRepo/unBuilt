@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("unBuiltAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a18b809019999e690bf1dee4820f46be524d7083")]
 [assembly: System.Reflection.AssemblyProductAttribute("unBuiltAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("unBuiltAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

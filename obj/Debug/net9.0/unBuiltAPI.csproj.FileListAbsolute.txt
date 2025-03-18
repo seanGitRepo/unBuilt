@@ -40,3 +40,4 @@
 /Users/user/Learning/unBuilt/unBuiltAPI/obj/Debug/net9.0/unBuiltAPI.pdb
 /Users/user/Learning/unBuilt/unBuiltAPI/obj/Debug/net9.0/unBuiltAPI.genruntimeconfig.cache
 /Users/user/Learning/unBuilt/unBuiltAPI/obj/Debug/net9.0/ref/unBuiltAPI.dll
+/Users/user/Learning/unBuilt/unBuiltAPI/obj/Debug/net9.0/unBuiltAPI.sourcelink.json
